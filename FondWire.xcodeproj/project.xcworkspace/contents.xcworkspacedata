@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:GothamMedium.ttf">
+   </FileRef>
+   <FileRef
       location = "self:FondWire.xcodeproj">
    </FileRef>
 </Workspace>
