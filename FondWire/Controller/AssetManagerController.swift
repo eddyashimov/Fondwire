@@ -106,7 +106,7 @@ class AssetManagerController: UITableViewController {
             cell.contentView.layer.borderColor = UIColor.clear.cgColor
             cell.contentView.layer.masksToBounds = true
 
-            cell.layer.backgroundColor = UIColor.white.cgColor
+//            cell.layer.backgroundColor = UIColor.white.cgColor
             cell.layer.shadowColor = UIColor.gray.cgColor
             cell.layer.shadowOffset = CGSize(width: 0, height: 2.0)//CGSizeMake(0, 2.0);
             cell.layer.shadowRadius = 2.0
